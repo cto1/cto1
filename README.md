@@ -1,6 +1,6 @@
 # Hi, I'm Aleks 👋
 
-📍 Jávea, Spain ↔ London | 🏗️ Consultant CTO | 🚀 Serial Builder | 📖 Author
+📍 Jávea, Spain ↔ London | 🏗️ Consultant CTO | 🚀 Serial Builder | 📖 Author | Ex-Meta
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -13,7 +13,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-D4A574?style=flat&logo=anthropic&logoColor=white)
 ![Fintech](https://img.shields.io/badge/-Fintech-00C853?style=flat)
 
-> Deep in build mode — shipping AI-powered tools for financial services at ludicrous speed. Consultant CTO at a £200M+ property lending firm by day, serial domain launcher by night. After years in fintech infrastructure, vibe-coding the future feels like a breath of fresh air.
+> Deep in build mode — shipping AI-powered tools for financial services at speed. After years in fintech infrastructure, agantic-coding the future feels like a breath of fresh air.
 
 🌐 [hireclaws.com](https://hireclaws.com) (AI workers for any service)
 
