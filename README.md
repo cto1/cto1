@@ -13,20 +13,19 @@
 ![Claude](https://img.shields.io/badge/-Claude-D4A574?style=flat&logo=anthropic&logoColor=white)
 ![Fintech](https://img.shields.io/badge/-Fintech-00C853?style=flat)
 
-> Deep in build mode — shipping AI-powered tools for financial services at ludicrous speed. Consultant CTO at a £200M+ property lending firm by day, serial domain launcher by night. After years in fintech infrastructure, vibe-coding the future feels like a breath of fresh air.
+> Deep in build mode — shipping AI-powered tools for financial services at ludicrous speed. After years in fintech, agantic-coding the future feels like a breath of fresh air.
 
-🌐 [revenufy.com](https://revenufy.com) (AI workers for financial services)
+🌐 [hireclaws.com](https://hireclaws.com) (AI workers for financial services)
 
 ---
 
 ## 🔭 Current Projects
 
-- 🤖 **[Revenufy](https://revenufy.com)** – Plug-in AI workers for financial services. Automating document processing, KYC/DD, and fraud detection without disrupting existing workflows.
+- 🤖 **[HireClaws](https://hireclaws.com)** – Plug-in AI workers for financial services. Automating document processing, KYC/DD, and fraud detection without disrupting existing workflows.
 - 📄 **DocuNeat** – AI-powered document management and processing for regulated businesses.
 - 💱 **Statement Converters** – Bank statement processing tools for UK and US markets. Converting messy PDFs into clean, structured data.
 - 🦞 **Claw Suite** ([ClawEasy](https://claweasy.com) · [ClawEmail](https://clawemail.com) · [HireClaws](https://hireclaws.com)) – AI automation product family for business workflows, email outreach, and hiring AI workers.
-- 🎓 **[Class CEOs](https://classceos.com)** – An 8-week entrepreneurship programme for UK primary school students. Building the next generation of founders.
-- 📖 **CTO Book** – Contrarian tech leadership insights. Short, opinionated takes on how to actually run technology.
+- 📖 **CTO Book** – Contrarian tech leadership insights. Short, opinionated takes on how to actually run technology. 
 
 ---
 
