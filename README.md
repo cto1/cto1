@@ -30,6 +30,57 @@
 
 ---
 
+## 💡 What I'm Into
+
+- **AI for regulated industries** – Making LLMs useful in contexts where accuracy and compliance actually matter.
+- **Fintech infrastructure** – Lending platforms, ledger systems, and the messy plumbing behind financial products.
+- **Contrarian tech leadership** – Wrote the book on it (literally). Short (4 books) and expanded (How to become CTO) opinionated takes on how to actually run technology.
+- **🚴 Cycling** the trails around Jávea and the Costa Blanca.
+
+---
+
+## 🚀 Startups — 27 Projects & Counting
+
+#AI agents 
+- 📧 **[clawemail.com](https://clawemail.com)** – AI-powered email automation & outreach tool `Launched 7.2.2026`
+- 🤖 **[hireclaws.com](https://hireclaws.com)** – Hire AI workers (Claws) for your business workflows `Launched 3.2.2026`
+- 🦞 **[claweasy.com](https://claweasy.com)** – AI automation made simple — no-code AI claw machines for business tasks `Launched 1.2.2025`
+
+#Search & web analytics 
+- 🔍 **[1domainfinder.com](https://1domainfinder.com)** – Smart domain name search & availability checker `Launched 19.12.2025`
+- 💬 **[wordoid2.com](https://wordoid2.com)** – AI-powered brandable word generator for startups & side projects `Launched 17.12.2025`
+- 🔤 **[2worddomain.com](https://2worddomain.com)** – Find available two-word .com domains instantly `Launched 18.12.2025`
+- 📈 **[1webanalytics.com](https://1webanalytics.com)** – Lightweight, privacy-first website analytics `Launched 24.12.2025`
+
+#Security
+- 🔐 **[infoseclist.com](https://infoseclist.com)** – Curated information security tools, news & resources `Launched 13.2.2026`
+- ⚡ **[promptduty.com](https://promptduty.com)** – Prompt engineering toolkit — manage, test & version your LLM prompts `Launched · 19.1.2026`
+- 🛡️ **[1pentesting.com](https://1pentesting.com)** – Penetration testing tools & security resources `🚧 WIP · 23.12.2025`
+
+#Fintech
+- 🇬🇧 **[ukstatementconverter.com](https://ukstatementconverter.com)** – Convert UK bank statement PDFs into clean CSV/Excel data `Launched 25.12.2025`
+- 🏦 **[barclaysstatements.co.uk](https://barclaysstatements.co.uk)** – Barclays statement PDF → structured data converter `Launched 26.12.2025`
+- 🏧 **[hsbcstatements.co.uk](https://hsbcstatements.co.uk)** – HSBC statement PDF → structured data converter `Launched 27.12.2025`
+- 🔴 **[santanderstatements.co.uk](https://santanderstatements.co.uk)** – Santander statement PDF → structured data converter `Launched 28.12.2025`
+- 🇺🇸 **[usstatementconverter.com](https://usstatementconverter.com)** – Convert US bank statement PDFs into clean CSV/Excel data `Launched 15.1.2026`
+- 🗽 **[usastatementconverter.com](https://usastatementconverter.com)** – US bank statement converter — alternate domain `Launched 15.1.2026`
+- 💰 **[dodgetax.com](https://dodgetax.com)** – Tax optimisation tips & calculators for UK/US taxpayers `Launched 19.1.2026`
+- 🐴 **[lloydsstatements.co.uk](https://lloydsstatements.co.uk)** – Lloyds statement PDF → structured data converter `✅ Live`
+- 🟣 **[natweststatements.co.uk](https://natweststatements.co.uk)** – NatWest statement PDF → structured data converter `✅ Live`
+
+#Data
+- 🏗️ **[planningapi.uk](https://planningapi.uk)** – UK planning permission data via API `🚧 WIP`
+
+#Other
+- 🏠 **[1homemanager.co.uk](https://1homemanager.co.uk)** / **[.com](https://1homemanager.com)** – Home management app — maintenance schedules, bills & property tasks `Launched 23.1.2026`
+- 💜 **[dementia-shop.com](https://dementia-shop.com)** – Curated products & resources for dementia care `🚧 WIP`
+- 🔧 **[fixer.social](https://fixer.social)** – Social media reputation & PR management → replypr.com `🚧 WIP`
+- 💎 **[exclusivista.com](https://exclusivista.com)** – Premium curated marketplace for exclusive finds `🚧 WIP`
+- 🤝 **[introdb.com](https://introdb.com)** – Smart introductions database — connect the right people `🚧 WIP`
+- 🧠 **[aisearchenhancer.com](https://aisearchenhancer.com)** – Enhance search results with AI-powered context & summaries `🚧 WIP`
+
+---
+
 ## 🛠️ Open Source & Tools
 
 - 🏛️ **[fcareg-importer](https://github.com/cto1/fcareg-importer)** – Website importer for the FCA Financial Firm Register. Scraping regulatory data so you don't have to.
@@ -40,79 +91,10 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cto1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cto1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cto1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cto1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 💡 What I'm Into
-
-- **AI for regulated industries** – Making LLMs useful in contexts where accuracy and compliance actually matter.
-- **Fintech infrastructure** – Lending platforms, ledger systems, and the messy plumbing behind financial products.
-- **Contrarian tech leadership** – Wrote the book on it (literally). Short, opinionated takes on how to actually run technology.
-- **🚴 Cycling** the trails around Jávea and the Costa Blanca.
-
----
-
-## 🚀 Startups — 27 Projects & Counting
-
-- 🦞 **[claweasy.com](https://claweasy.com)** – AI automation made simple — no-code AI claw machines for business tasks `Launched 1.2.2025`
-- 💬 **[wordoid2.com](https://wordoid2.com)** – AI-powered brandable word generator for startups & side projects `Launched 17.12.2025`
-- 🔤 **[2worddomain.com](https://2worddomain.com)** – Find available two-word .com domains instantly `Launched 18.12.2025`
-- 🔍 **[1domainfinder.com](https://1domainfinder.com)** – Smart domain name search & availability checker `Launched 19.12.2025`
-- 🛡️ **[1pentesting.com](https://1pentesting.com)** – Penetration testing tools & security resources `🚧 WIP · 23.12.2025`
-- 📈 **[1webanalytics.com](https://1webanalytics.com)** – Lightweight, privacy-first website analytics `Launched 24.12.2025`
-- 🇬🇧 **[ukstatementconverter.com](https://ukstatementconverter.com)** – Convert UK bank statement PDFs into clean CSV/Excel data `Launched 25.12.2025`
-- 🏦 **[barclaysstatements.co.uk](https://barclaysstatements.co.uk)** – Barclays statement PDF → structured data converter `Launched 26.12.2025`
-- 🏧 **[hsbcstatements.co.uk](https://hsbcstatements.co.uk)** – HSBC statement PDF → structured data converter `Launched 27.12.2025`
-- 🔴 **[santanderstatements.co.uk](https://santanderstatements.co.uk)** – Santander statement PDF → structured data converter `Launched 28.12.2025`
-- 🇺🇸 **[usstatementconverter.com](https://usstatementconverter.com)** – Convert US bank statement PDFs into clean CSV/Excel data `Launched 15.1.2026`
-- 🗽 **[usastatementconverter.com](https://usastatementconverter.com)** – US bank statement converter — alternate domain `Launched 15.1.2026`
-- 💰 **[dodgetax.com](https://dodgetax.com)** – Tax optimisation tips & calculators for UK/US taxpayers `Launched 19.1.2026`
-- ⚡ **[promptduty.com](https://promptduty.com)** – Prompt engineering toolkit — manage, test & version your LLM prompts `🚧 WIP · 19.1.2026`
-- 🏠 **[1homemanager.co.uk](https://1homemanager.co.uk)** / **[.com](https://1homemanager.com)** – Home management app — maintenance schedules, bills & property tasks `Launched 23.1.2026`
-- 📧 **[clawemail.com](https://clawemail.com)** – AI-powered email automation & outreach tool `Launched 7.2.2026`
-- 🐴 **[lloydsstatements.co.uk](https://lloydsstatements.co.uk)** – Lloyds statement PDF → structured data converter `✅ Live`
-- 🟣 **[natweststatements.co.uk](https://natweststatements.co.uk)** – NatWest statement PDF → structured data converter `✅ Live`
-- 💜 **[dementia-shop.com](https://dementia-shop.com)** – Curated products & resources for dementia care `✅ Live`
-- 🤖 **[hireclaws.com](https://hireclaws.com)** – Hire AI workers (Claws) for your business workflows `✅ Live`
-- 🔧 **[fixer.social](https://fixer.social)** – Social media reputation & PR management → replypr.com `✅ Live`
-- 💎 **[exclusivista.com](https://exclusivista.com)** – Premium curated marketplace for exclusive finds `🚧 WIP`
-- 🏗️ **[planningapi.uk](https://planningapi.uk)** – UK planning permission data via API `🚧 WIP`
-- 🤝 **[introdb.com](https://introdb.com)** – Smart introductions database — connect the right people `🚧 WIP`
-- 🧠 **[aisearchenhancer.com](https://aisearchenhancer.com)** – Enhance search results with AI-powered context & summaries `🚧 WIP`
-- 🔐 **[infoseclist.com](https://infoseclist.com)** – Curated information security tools, news & resources `🚧 WIP`
-- ⏳ **planningapi.co.uk** – UK planning API — alternate domain `Parked`
-
----
-
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="https://revenufy.com"><img src="https://img.shields.io/badge/-revenufy.com-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="https://twitter.com/cto1"><img src="https://img.shields.io/badge/-@cto1-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/alekskudic"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aleks@revenufy.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/alekskudic"><img src="https://img.shields.io/badge/-@cto1-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kudic"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cto1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>Consultant CTO by day, AI entrepreneur by night. 27 domains and counting. Always shipping.</i>
-</p>
